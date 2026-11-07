@@ -1,0 +1,3 @@
+campaign_id,ad_group_id,observed_query,proposed_negative,negative_match_type,scope,cost,clicks,conversions,source,reason,protected_query_check,risk,confidence,status
+C100,A10,free crm spreadsheet download,free crm spreadsheet download,exact,ad_group,32,16,0,search-terms.csv record 2,Downloadable spreadsheet is not offered,Does not match agency crm free demo,Other variants remain eligible; validate current configuration,high intent mismatch,proposed
+C100,A10,crm jobs remote,crm jobs remote,exact,ad_group,25,10,0,search-terms.csv record 4,Employment intent is outside product offer,Does not match crm for agencies or northstar crm,Other variants remain eligible; validate current configuration,high intent mismatch,proposed

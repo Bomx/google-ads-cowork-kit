@@ -1,0 +1,14 @@
+# Private account data and generated work. Check the staged diff before publishing.
+/data/
+/outputs/
+/private/
+/client-data/
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.coverage

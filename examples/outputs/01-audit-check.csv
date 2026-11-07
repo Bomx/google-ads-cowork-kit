@@ -1,0 +1,7 @@
+source_row,campaign_id,ad_group_id,keyword_id,keyword,cost,clicks,impressions,conversions,cpa,status,reason
+2,C100,A10,K01,crm for agencies,180,60,1200,3,60,no_flag,
+3,C100,A10,K02,free crm spreadsheet,64,32,2000,0,null,review,cost_at_or_above_threshold_and_zero_conversions
+4,C100,A10,K03,crm jobs,25,10,600,0,null,review,cost_at_or_above_threshold_and_zero_conversions
+5,C100,A10,K04,agency crm comparison,19,6,300,0,null,no_flag,
+6,C100,A10,K05,agency pipeline software,72,24,800,1.5,48,no_flag,
+7,C200,A20,K06,northstar crm,40,20,400,2,20,no_flag,

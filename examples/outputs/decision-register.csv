@@ -1,0 +1,5 @@
+decision_id,workflow,scope,source,proposal,reason,risk,confidence,status,reviewer,approved_at,implemented_at,verification
+D01,2,C100/A10,search-terms.csv record 2,Review exact negative free crm spreadsheet download,Downloadable spreadsheet not offered,Other variants remain; validate full configuration,high intent mismatch,proposed,,,,
+D02,2,C100/A10,search-terms.csv record 4,Review exact negative crm jobs remote,Employment intent out of scope,Other variants remain; validate full configuration,high intent mismatch,proposed,,,,
+D03,5,C100/A10,page-evidence.md OWN-AD-01 and OWN-PAGE-01,Review replacing trial claim with Book a Northstar Demo,Trial not approved or evidenced,Partial capture cannot establish all product terms,high evidence gap,proposed,,,,
+D04,6,C100,budget-plan.csv record 2,Confirm monthly plan and inspect budget report before changing settings,Linear projection exceeds plan,Projection may not reflect remaining-month demand,high arithmetic; low forecast,proposed,,,,

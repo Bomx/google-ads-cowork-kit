@@ -1,0 +1,5 @@
+period_start,period_end,campaign_id,campaign,campaign_type,cost,clicks,impressions,conversions
+2026-11-01,2026-11-06,C100,Agency CRM,Search,1500,600,25000,30
+2026-11-01,2026-11-06,C200,Brand,Search,300,120,6000,6
+2026-10-26,2026-10-31,C100,Agency CRM,Search,1250,500,22000,25
+2026-10-26,2026-10-31,C200,Brand,Search,250,100,5000,5
